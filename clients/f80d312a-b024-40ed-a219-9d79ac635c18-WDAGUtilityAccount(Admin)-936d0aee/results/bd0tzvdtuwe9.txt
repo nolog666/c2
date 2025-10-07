@@ -1,1 +1,0 @@
-[+] Uninstalling... Removing persistence and self-destructing. Goodbye.
