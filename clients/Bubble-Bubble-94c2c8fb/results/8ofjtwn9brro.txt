@@ -1,2 +1,0 @@
-[F] implant.exe
-[F] operator_console.exe
