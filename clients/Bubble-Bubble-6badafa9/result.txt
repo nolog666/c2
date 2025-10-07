@@ -1,0 +1,1 @@
+[-] Command failed: stdout and stderr arguments may not be used with capture_output.
