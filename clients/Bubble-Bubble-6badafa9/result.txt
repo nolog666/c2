@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E67A-3A78
+
+ Directory of C:\Users\Bubble\Downloads\dist
+
+10/07/2025  08:51 PM    <DIR>          .
+10/07/2025  08:51 PM    <DIR>          ..
+10/07/2025  08:52 PM               888 .aether_history
+10/07/2025  08:50 PM        14,021,788 implant.exe
+10/07/2025  08:51 PM        35,173,688 operator_console.exe
+               3 File(s)     49,196,364 bytes
+               2 Dir(s)  263,832,948,736 bytes free
