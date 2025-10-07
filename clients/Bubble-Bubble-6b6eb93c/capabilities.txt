@@ -1,0 +1,7 @@
+shell
+cd
+ls
+whoami
+screenshot
+download
+uinstall
