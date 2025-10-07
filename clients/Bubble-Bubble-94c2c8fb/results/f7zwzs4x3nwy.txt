@@ -1,0 +1,39 @@
+
+Windows IP Configuration
+
+
+Unknown adapter LAN-Verbindung:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : fritz.box
+
+Wireless LAN adapter LAN-Verbindung* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter LAN-Verbindung* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter WLAN:
+
+   Connection-specific DNS Suffix  . : fritz.box
+   Link-local IPv6 Address . . . . . : fe80::a9a5:899b:a59e:f77b%20
+   IPv4 Address. . . . . . . . . . . : 192.168.178.20
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.178.1
+
+Ethernet adapter vEthernet (Default Switch):
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::1fc3:50a8:55e5:2f0b%42
+   IPv4 Address. . . . . . . . . . . : 172.21.176.1
+   Subnet Mask . . . . . . . . . . . : 255.255.240.0
+   Default Gateway . . . . . . . . . : 
