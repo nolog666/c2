@@ -1,7 +1,0 @@
-shell
-download
-download_from_url
-change_background
-bsod
-infrun
-update_from
