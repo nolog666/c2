@@ -1,1 +1,1 @@
-webcam_snap
+open_url google.com
