@@ -1,0 +1,5 @@
+System: Windows 11
+Arch: AMD64
+Hostname: f80d312a-b024-40ed-a219-9d79ac635c18
+User: WDAGUtilityAccount
+Admin: Yes
