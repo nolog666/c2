@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E67A-3A78
+
+ Directory of C:\Users\Bubble\Downloads
+
+10/07/2025  08:51 PM    <DIR>          .
+10/07/2025  08:26 PM    <DIR>          ..
+10/07/2025  08:50 PM            19,397 ai_studio_code.py
+10/07/2025  08:51 PM    <DIR>          dist
+10/01/2025  07:03 PM         5,371,748 Lucky Twice - Lucky (Official Music Video).mp3
+10/04/2025  10:31 PM         4,658,919 nipah.mp3
+               3 File(s)     10,050,064 bytes
+               3 Dir(s)  263,832,834,048 bytes free
