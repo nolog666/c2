@@ -1,1 +1,0 @@
-[-] Screenshot Error: cannot write mode RGBX as PNG
