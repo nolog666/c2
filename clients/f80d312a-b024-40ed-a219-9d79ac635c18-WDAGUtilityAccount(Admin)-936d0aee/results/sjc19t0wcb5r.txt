@@ -1,1 +1,0 @@
-System volume set to 50%
