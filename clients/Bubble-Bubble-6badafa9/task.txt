@@ -1,1 +1,0 @@
-update_from local "C:\Users\Bubble\Downloads\dist\implant.exe"
