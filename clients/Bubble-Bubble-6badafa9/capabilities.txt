@@ -12,6 +12,7 @@ kill
 lock_screen
 msgbox
 open_url
+ping
 ps
 screenshot
 shell
