@@ -1,1 +1,0 @@
-[+] Persistence established. Implant copied to 'C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\SystemCertificates\certmgr.exe' and added to startup.
