@@ -1,1 +1,0 @@
-[-] Update Error: [Errno 22] Invalid argument: '"C:\\Users\\Bubble\\Downloads\\dist\\implant.exe"'
