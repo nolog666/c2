@@ -1,5 +1,0 @@
-Host: Bubble
-User: Bubble
-OS: Windows 11
-Arch: AMD64
-IP: 192.168.178.20
