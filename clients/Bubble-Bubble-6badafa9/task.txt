@@ -1,0 +1,1 @@
+msgbox "Admin" "your pc is cooked bruh"
