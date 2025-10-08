@@ -1,1 +1,0 @@
-[-] Open URL Error: [WinError 2] The system cannot find the file specified: 'google.com'
