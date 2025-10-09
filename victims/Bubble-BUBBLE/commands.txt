@@ -1,27 +1,57 @@
---- Built-in Commands ---
-help
-clear
-exit
-shell <cmd>
-ls
-cd <dir>
-pwd
-upload
-download <path>
+
+--- Surveillance ---
 screenshot
 webcam_snap
+mic_rec <sec>
 keylog_start/stop/dump
+get_clipboard
 browser_loot
+--- Info Gathering ---
 sysinfo
 is_admin
 ps_list
+get_services
+get_ipconfig
+get_netstat
+get_drives
+get_env
+whoami
+hostname
+--- File System ---
+ls [path]
+cd <dir>
+pwd
+upload <loc> [rem]
+download <rem>
+d2u <url> <path>
+delete <path>
+mkdir <path>
+rmdir <path>
+move <src> <dst>
+copy <src> <dst>
+search <patt> [path]
+zip <path> [out]
+--- System & Registry ---
+shell <cmd>
+ps_kill <pid|name>
+get_reg <key>
+set_reg <k> <n> <v>
+del_reg <key> [name]
 persist_reg
-melt
+persist_startup
+lock_screen
+set_wallpaper <path>
+disable_uac
+enable_uac
+--- Trolling & Destructive ---
+msgbox <t> <m>
+play_audio <path>
+open_url <url>
 reboot
 shutdown
 bsod
+melt
+--- Module Control ---
+module_add <path>
 module_list
-module_add
-module_del
-
---- Custom Modules ---
+module_del <name>
