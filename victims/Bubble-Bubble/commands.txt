@@ -1,0 +1,3 @@
+Available Commands:
+shell <command> - Execute a shell command
+cd <directory> - Change working directory
