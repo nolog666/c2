@@ -55,3 +55,6 @@ melt
 module_add <path>
 module_list
 module_del <name>
+
+--- Custom Modules ---
+example_module       - A test module that lists contents of a directory. (Args: [optional_path])
