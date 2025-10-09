@@ -1,15 +1,27 @@
---- File System ---
-shell <cmd>         - Execute shell command
-cd <dir>            - Change directory
-pwd                 - Get current directory
-upload <local> [rem]- Upload file
-download <remote>   - Download file
-screenshot          - Capture screen
---- System Control (Windows) ---
-reboot              - Reboot the system
-shutdown            - Shutdown the system
-disable_taskmgr     - Disable Task Manager
-enable_taskmgr      - Enable Task Manager
-bsod                - Trigger Blue Screen of Death
---- C2 Control ---
-terminate           - Kill the payload
+--- Built-in Commands ---
+help
+clear
+exit
+shell <cmd>
+ls
+cd <dir>
+pwd
+upload
+download <path>
+screenshot
+webcam_snap
+keylog_start/stop/dump
+browser_loot
+sysinfo
+is_admin
+ps_list
+persist_reg
+melt
+reboot
+shutdown
+bsod
+module_list
+module_add
+module_del
+
+--- Custom Modules ---
