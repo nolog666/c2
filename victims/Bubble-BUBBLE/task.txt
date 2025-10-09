@@ -1,1 +1,1 @@
-example_module C:\
+sleep
