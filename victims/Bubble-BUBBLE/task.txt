@@ -1,1 +1,1 @@
-_internal_del_module example_module.py
+sleep
