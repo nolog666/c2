@@ -1,1 +1,0 @@
-example_module - A test module that lists contents of a directory.
