@@ -1,1 +1,1 @@
-sleep
+msgbox "admin" "fuck you"
