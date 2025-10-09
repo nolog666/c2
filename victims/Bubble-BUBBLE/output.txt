@@ -1,1 +1,0 @@
-Error: Screenshot failed. Display may be locked or unavailable.
