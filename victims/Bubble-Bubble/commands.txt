@@ -1,0 +1,1 @@
+Available commands: shell, info, etc. Use 'cd' to change directory.
