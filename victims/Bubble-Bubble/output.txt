@@ -41,4 +41,4 @@
 10/07/2025  03:58 PM    <DIR>          usb_driver
 10/08/2025  09:29 PM    <DIR>          Videos
               14 File(s)         13,572 bytes
-              23 Dir(s)  320,881,168,384 bytes free
+              23 Dir(s)  320,881,135,616 bytes free
