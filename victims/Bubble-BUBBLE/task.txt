@@ -1,1 +1,1 @@
-sleep
+_internal_del_module example_module
