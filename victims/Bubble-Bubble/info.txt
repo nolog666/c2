@@ -1,4 +1,0 @@
-Username: Bubble
-PC Name: Bubble
-OS: nt
-CWD: C:\Users\Bubble
